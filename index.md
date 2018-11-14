@@ -4,6 +4,8 @@ Software Engineer - [Academic Experience Design & Delivery](https://www.washingt
 
 ![Codewars](https://www.codewars.com/users/abztrakt/badges/small)
 
+[HackerRank](https://www.hackerrank.com/cstimmel)
+
 ## What I've been working on
 
 [scout-ios](https://github.com/uw-it-aca/scout-ios)
