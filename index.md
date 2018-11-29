@@ -8,8 +8,18 @@ Software Engineer - [Academic Experience Design & Delivery](https://www.washingt
 
 ## What I've been working on
 
+### Mobile UW
+
+[mdot](https://github.com/uw-it-aca/mdot) [![Build Status](https://travis-ci.org/uw-it-aca/mdot.svg?branch=master)](https://travis-ci.org/uw-it-aca/mdot) [![Coverage Status](https://coveralls.io/repos/github/uw-it-aca/mdot/badge.svg?branch=master)](https://coveralls.io/github/uw-it-aca/mdot?branch=master)
+
+### Pivot
+
+[pivot](https://github.com/uw-it-aca/pivot) [![Build Status](https://travis-ci.org/uw-it-aca/pivot.svg?branch=master)](https://travis-ci.org/uw-it-aca/pivot) [![Coverage Status](https://coveralls.io/repos/github/uw-it-aca/pivot/badge.svg?branch=master)](https://coveralls.io/github/uw-it-aca/pivot?branch=master)
+
+### Scout
+
 [scout-android](https://github.com/uw-it-aca/scout-android)
 
 [scout-ios](https://github.com/uw-it-aca/scout-ios)
 
-[spotseeker_server](https://github.com/uw-it-aca/spotseeker_server) ![Travis CI](https://camo.githubusercontent.com/7312210c0e1297039dab0a1d377e608ee5ff5b6e/68747470733a2f2f636f766572616c6c732e696f2f7265706f732f75772d69742d6163612f73706f747365656b65725f7365727665722f62616467652e7376673f6272616e63683d6d617374657226736572766963653d676974687562) ![Coveralls](https://camo.githubusercontent.com/7312210c0e1297039dab0a1d377e608ee5ff5b6e/68747470733a2f2f636f766572616c6c732e696f2f7265706f732f75772d69742d6163612f73706f747365656b65725f7365727665722f62616467652e7376673f6272616e63683d6d617374657226736572766963653d676974687562)
+[spotseeker_server](https://github.com/uw-it-aca/spotseeker_server) [![Build Status](https://travis-ci.org/uw-it-aca/spotseeker_server.svg?branch=master)](https://travis-ci.org/uw-it-aca/spotseeker_server) [![Coverage Status](https://coveralls.io/repos/github/uw-it-aca/spotseeker_server/badge.svg?branch=master)](https://coveralls.io/github/uw-it-aca/spotseeker_server?branch=master)
